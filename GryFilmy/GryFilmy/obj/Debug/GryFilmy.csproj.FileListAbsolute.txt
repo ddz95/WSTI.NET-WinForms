@@ -1,0 +1,10 @@
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\bin\Debug\GryFilmy.exe.config
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\bin\Debug\GryFilmy.exe
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\bin\Debug\GryFilmy.pdb
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.MainForm.resources
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.Properties.Resources.resources
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.exe
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.pdb
+C:\Users\Dawid\Desktop\GryFilmy\GryFilmy\obj\Debug\GryFilmy.AddForm.resources

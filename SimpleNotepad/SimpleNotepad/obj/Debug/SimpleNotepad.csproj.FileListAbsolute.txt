@@ -1,0 +1,8 @@
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.exe.config
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.exe
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\bin\Debug\SimpleNotepad.pdb
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.Form1.resources
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.Properties.Resources.resources
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.exe
+C:\Users\Dawid\Desktop\SimpleNotepad\SimpleNotepad\obj\Debug\SimpleNotepad.pdb

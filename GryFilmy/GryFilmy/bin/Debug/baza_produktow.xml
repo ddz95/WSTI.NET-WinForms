@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Video>
+      <Name>Dorian Gray</Name>
+      <Type>Dramat</Type>
+      <Price>85.00</Price>
+      <IsBorrowed>false</IsBorrowed>
+      <ForAdults>true</ForAdults>
+      <ReleaseDate>2010-06-10T18:07:28</ReleaseDate>
+      <Direction>Olivier Parker</Direction>
+      <Scenario>Toby Finlay</Scenario>
+    </Video>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Video>
+      <Name>Warcraft: Początek</Name>
+      <Type>Przygodowy</Type>
+      <Price>125.00</Price>
+      <IsBorrowed>true</IsBorrowed>
+      <ForAdults>false</ForAdults>
+      <ReleaseDate>2011-10-22T18:08:11</ReleaseDate>
+      <Direction>Duncan Jones</Direction>
+      <Scenario>Charles Leavitt, Duncan Jones</Scenario>
+    </Video>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Video>
+      <Name>American Psycho</Name>
+      <Type>Thriller</Type>
+      <Price>45.00</Price>
+      <IsBorrowed>true</IsBorrowed>
+      <ForAdults>true</ForAdults>
+      <ReleaseDate>2015-06-11T18:08:55</ReleaseDate>
+      <Direction>Mary Harron</Direction>
+      <Scenario>Guinevere Turner, Mary Harron</Scenario>
+    </Video>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Game>
+      <Name>Star Wars: The Old Republic</Name>
+      <Type>MMO</Type>
+      <Price>130.00</Price>
+      <IsBorrowed>false</IsBorrowed>
+      <ForAdults>false</ForAdults>
+      <ReleaseDate>2017-06-06T18:09:57</ReleaseDate>
+      <Producer>Bioware, Electronic Arts, Bioware Austin LLC</Producer>
+    </Game>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Game>
+      <Name>World of Warcraft</Name>
+      <Type>MMO</Type>
+      <Price>95.00</Price>
+      <IsBorrowed>false</IsBorrowed>
+      <ForAdults>false</ForAdults>
+      <ReleaseDate>2010-06-17T18:11:53</ReleaseDate>
+      <Producer>Blizzard Entertainment</Producer>
+    </Game>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Game>
+      <Name>Wiedźmin 3: Dziki Gon</Name>
+      <Type>Akcja</Type>
+      <Price>150.00</Price>
+      <IsBorrowed>false</IsBorrowed>
+      <ForAdults>true</ForAdults>
+      <ReleaseDate>2010-06-18T18:12:19</ReleaseDate>
+      <Producer>CD Projekt Red</Producer>
+    </Game>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Book>
+      <Name>C# Praktyczny kurs</Name>
+      <Type>Naukowy</Type>
+      <Price>50.00</Price>
+      <IsBorrowed>false</IsBorrowed>
+      <ForAdults>false</ForAdults>
+      <ReleaseDate>2016-07-13T18:13:03</ReleaseDate>
+      <Author>Marcin Lis</Author>
+      <PublishingHouse>Helion</PublishingHouse>
+      <NumberOfPages>100</NumberOfPages>
+    </Book>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+  <Product>
+    <Book>
+      <Name>Czysty kod. Podręcznik dobrego programisty</Name>
+      <Type>Naukowy</Type>
+      <Price>69.00</Price>
+      <IsBorrowed>true</IsBorrowed>
+      <ForAdults>false</ForAdults>
+      <ReleaseDate>2017-07-11T18:13:48</ReleaseDate>
+      <Author>Robert C. Martin</Author>
+      <PublishingHouse>Helion</PublishingHouse>
+      <NumberOfPages>100</NumberOfPages>
+    </Book>
+    <Price>0</Price>
+    <IsBorrowed>false</IsBorrowed>
+    <ForAdults>false</ForAdults>
+    <ReleaseDate>0001-01-01T00:00:00</ReleaseDate>
+  </Product>
+</ArrayOfProduct>
